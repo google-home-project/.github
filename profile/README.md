@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
-**Here are some ideas to get you started:**
-
 ## Google Home Project Research
 
 Welcome to the **Google Home Project Research** organization! We are focused on exploring, developing, and innovating within the Google Home ecosystem. Our mission is to create cutting-edge applications, integrations, and enhancements that make smart home technology more accessible, intuitive, and powerful.
